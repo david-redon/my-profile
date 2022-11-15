@@ -1,0 +1,15 @@
+body {
+background-color: rgb(230, 230, 230);
+color: rgb(30, 30, 30);
+font-family:courier;
+font-size: 23px
+}
+
+h1 {
+color: #ff0119;
+font-family: Helvetica;
+font-weight: 800;
+letter-spacing: 2px;
+font-size: 89px;
+text-transform: uppercase;
+}
